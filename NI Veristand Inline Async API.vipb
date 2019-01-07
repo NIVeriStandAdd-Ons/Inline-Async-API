@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2016-09-09 09:52:36" Modified_Date="2019-01-07 11:47:34" Creator="Tanner" Comments="" ID="ed29f1b9251d0fb8c2830c3c00c61549">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2016-09-09 09:52:36" Modified_Date="2019-01-07 15:37:04" Creator="Tanner" Comments="" ID="e41529425bec9565b9c2a6f71ce2c51f">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_NIVS_Inline_Async_API</Package_File_Name>
-    <Library_Version>1.0.0.35</Library_Version>
+    <Library_Version>1.0.0.36</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Built</Library_Output_Folder>
@@ -249,7 +249,7 @@ https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API</Descript
         <Path>Source\Engine</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3E03D205E73B088F43A37373857B4D44</GUID>
+      <GUID>2294973C42E36A99070ECB298064689C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -284,7 +284,7 @@ https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API</Descript
         <Path>Source\vi.lib\NI\NIVS Inline Async API\_Data Access System Explorer\Methods\Data.OnCompile.Execute.vi</Path>
         <VI_Title>Build Group Refs</VI_Title>
       </Items_Data>
-      <GUID>C5BDD7ACEFF1842AB31CD659C840C873</GUID>
+      <GUID>CF031D2BC53DF72B3084C2997FFA8AFF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -333,7 +333,7 @@ https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API</Descript
         <Path>Source\Async</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D990D2B0D9473CAF98FD0925667D5C42</GUID>
+      <GUID>56484F578402038CCDB905A8F63BC985</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -424,7 +424,7 @@ https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API</Descript
         <Path>Source\vi.lib\NI\NIVS Inline Async API\_VS Inline Async API\VS Inline Async API\Methods\Async.Engine.Close.vi</Path>
         <VI_Title>Close</VI_Title>
       </Items_Data>
-      <GUID>D29E3661EF07DCF078871F65835CCD93</GUID>
+      <GUID>570FE50E17892592B55E80602DE648E9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -501,7 +501,7 @@ https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API</Descript
         <Path>Source\vi.lib\NI\NIVS Inline Async API\_Data Access Engine\Data Access Engine\Methods\Data.Processes.Execute.vi</Path>
         <VI_Title>Read/Write Group</VI_Title>
       </Items_Data>
-      <GUID>204D27D023DAE312A3A07C1687455140</GUID>
+      <GUID>740D45C72E496D9EA8423F2D34895F3D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
